@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Clang++: Debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "targetArchitecture": "x86_64",
+            "program": "${fileDirname}/debug/${fileBasenameNoExtension}",
+            "showDisplayString": false,
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: Run active file",
+        },
+        {
+            "name": "Clang++: Build and Debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "targetArchitecture": "x86_64",
+            "program": "${fileDirname}/debug/${fileBasenameNoExtension}",
+            "showDisplayString": false,
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: Build and Test active file",
+        }
+    ]
+}
