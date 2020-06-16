@@ -1,9 +1,6 @@
 # Software Development Project Structure
 
-![file-tree](/Users/alexsantiago/Downloads/Software Development Project Structure/image.png)
-
-[TOC]
-
+![file-tree](./image.png)
 ------
 
 ## Introduction
