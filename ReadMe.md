@@ -1,6 +1,6 @@
 # Software Development Project Structure
 
-![image-20200616103744250](/Users/alexsantiago/Library/Application Support/typora-user-images/image-20200616103744250.png)
+![file-tree](/Users/alexsantiago/Downloads/Software Development Project Structure/image.png)
 
 [TOC]
 
