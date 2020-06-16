@@ -138,5 +138,5 @@ dmypy.json
 cython_debug/
 
 # Mac OSX
-*.DS_Store
+.DS_Store
 Python.gitignore
